@@ -1,0 +1,37 @@
+# Data manipulation and handling
+pandas
+numpy
+
+# Machine Learning libraries
+scikit-learn
+xgboost
+tensorflow
+keras
+
+# Time-series forecasting
+statsmodels
+
+# Sentiment analysis
+nltk
+vaderSentiment
+
+# Data visualization
+matplotlib
+seaborn
+
+# Model serialization
+joblib
+
+# Jupyter for analysis
+jupyter
+
+# Additional utility libraries
+tqdm
+scipy
+
+# For handling external data (e.g., via APIs)
+yfinance
+requests
+
+# For configuration management
+PyYAML

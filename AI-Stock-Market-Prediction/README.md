@@ -46,6 +46,48 @@ To get started with this project, you'll need to install the necessary dependenc
 pip install -r requirements.txt
 ```
 
+## Required Libraries
+
+Here is the list of essential libraries for running this project:
+
+- **Data manipulation and handling**:
+  - `pandas`
+  - `numpy`
+
+- **Machine Learning libraries**:
+  - `scikit-learn`
+  - `xgboost`
+  - `tensorflow`
+  - `keras`
+
+- **Time-series forecasting**:
+  - `statsmodels`
+
+- **Sentiment analysis**:
+  - `nltk`
+  - `vaderSentiment`
+
+- **Data visualization**:
+  - `matplotlib`
+  - `seaborn`
+
+- **Model serialization**:
+  - `joblib`
+
+- **Jupyter for analysis**:
+  - `jupyter`
+
+- **Additional utility libraries**:
+  - `tqdm`
+  - `scipy`
+
+- **For handling external data (e.g., via APIs)**:
+  - `yfinance`
+  - `requests`
+
+- **For configuration management**:
+  - `PyYAML`
+
 ## Data
 
 The `data/` directory contains the necessary datasets for stock market prediction. It includes:
@@ -99,4 +141,4 @@ If you have any questions, suggestions, or would like to collaborate, feel free 
 
 ---
 
-Let's use AI to make smarter investment decisions and predict the future of the stock market! 📈💡 
+Let's use AI to make smarter investment decisions and predict the future of the stock market! 📈💡  
